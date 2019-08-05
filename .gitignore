@@ -1,0 +1,7 @@
+**/.suo
+**/sqlite3/**
+/packages/**
+**ncrunch**
+**/bin/**
+**/obj/**
+/.vs/**
